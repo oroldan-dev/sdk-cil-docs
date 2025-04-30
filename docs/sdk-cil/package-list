@@ -43,7 +43,8 @@ $dokka.location:sksolutions.vcilv.sdk_cil/ConnectionStatusListener///PointingToD
 $dokka.location:sksolutions.vcilv.sdk_cil/ConnectionStatusListener/onConnected/#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-connection-status-listener/on-connected.html
 $dokka.location:sksolutions.vcilv.sdk_cil/ConnectionStatusListener/onDisconnected/#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-connection-status-listener/on-disconnected.html
 $dokka.location:sksolutions.vcilv.sdk_cil/DataListener///PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-data-listener/index.html
-$dokka.location:sksolutions.vcilv.sdk_cil/DataListener/getData/#kotlin.collections.Map[kotlin.String,kotlin.Any]#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-data-listener/get-data.html
+$dokka.location:sksolutions.vcilv.sdk_cil/DataListener/getData/#kotlin.collections.Map[kotlin.String,kotlin.Comparable[*]]#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-data-listener/get-data.html
+$dokka.location:sksolutions.vcilv.sdk_cil/DataListener/getRawData/#kotlin.String#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-data-listener/get-raw-data.html
 $dokka.location:sksolutions.vcilv.sdk_cil/DataListener/onFinished/#kotlin.String#kotlin.Boolean/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-data-listener/on-finished.html
 $dokka.location:sksolutions.vcilv.sdk_cil/ErrorListener///PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-error-listener/index.html
 $dokka.location:sksolutions.vcilv.sdk_cil/ErrorListener/onError/#kotlin.String?/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-error-listener/on-error.html
