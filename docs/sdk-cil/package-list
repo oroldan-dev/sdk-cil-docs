@@ -3,6 +3,13 @@ $dokka.linkExtension:html
 $dokka.location:sksolutions.vcilv.sdk_cil////PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/index.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk.Companion///PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/-companion/index.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk.Companion/getInstance/#android.content.Context/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/-companion/get-instance.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk.SectorInfo///PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/-sector-info/index.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk.SectorInfo/SectorInfo/#kotlin.Int#kotlin.Int#kotlin.collections.List[kotlin.Int]#kotlin.collections.List[kotlin.Int]#kotlin.ByteArray/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/-sector-info/-sector-info.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk.SectorInfo/bytes1/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/-sector-info/bytes1.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk.SectorInfo/dataloggerActivos/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/-sector-info/datalogger-activos.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk.SectorInfo/dataloggerTotal/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/-sector-info/datalogger-total.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk.SectorInfo/eventosActivos/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/-sector-info/eventos-activos.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk.SectorInfo/eventosTotal/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/-sector-info/eventos-total.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk///PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/index.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/activateControl/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/activate-control.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/areCoordinatesValid/#kotlin.Double#kotlin.Double/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/are-coordinates-valid.html
@@ -13,6 +20,8 @@ $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/clearControlMemoryMeasure
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/connectDevice/#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/connect-device.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/dataBufferQueue/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/data-buffer-queue.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/disconnectDevice/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/disconnect-device.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/downloadSelectedType/#com.polidea.rxandroidble3.RxBleConnection#sksolutions.vcilv.sdk_cil.BluetoothSdk.SectorInfo#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/download-selected-type.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/extractActiveSectors/#kotlin.ByteArray#kotlin.Int/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/extract-active-sectors.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/featureDataMap/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/feature-data-map.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/featureToByteMap/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/feature-to-byte-map.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/getAlarms/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/get-alarms.html
@@ -22,10 +31,14 @@ $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/getLatitude/#/PointingToD
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/getLongitude/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/get-longitude.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/getMeasurements/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/get-measurements.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/getSerialNumber/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/get-serial-number.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/getStatusMemory/#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/get-status-memory.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/initializeFirebase/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/initialize-firebase.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/initializeFirebaseManually/#com.google.firebase.FirebaseOptions/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/initialize-firebase-manually.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/lastNotificationHex/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/last-notification-hex.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/logLongString/#kotlin.String#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/log-long-string.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/onDownloadFinished/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/on-download-finished.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/ordenarSectoresDesdeActualIncluyendo/#kotlin.Int#kotlin.collections.List[kotlin.Int]/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/ordenar-sectores-desde-actual-incluyendo.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/processSectorNotifications/#kotlin.ByteArray#kotlin.ByteArray#kotlin.ByteArray/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/process-sector-notifications.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/readControlState/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/read-control-state.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/scanDevices/#kotlin.String#kotlin.Function1[kotlin.collections.List[kotlin.Pair[kotlin.String,kotlin.Int]],kotlin.Unit]/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/scan-devices.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/sendCoordinatesToControl/#kotlin.Double#kotlin.Double/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/send-coordinates-to-control.html
@@ -36,7 +49,9 @@ $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/setCustomAuth/#com.google
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/setCustomFirestore/#com.google.firebase.firestore.FirebaseFirestore/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/set-custom-firestore.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/setErrorListener/#sksolutions.vcilv.sdk_cil.ErrorListener/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/set-error-listener.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/setUserID/#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/set-user-i-d.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/splitStringBySize/#kotlin.String#kotlin.Int/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/split-string-by-size.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/stopScan/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/stop-scan.html
+$dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/takeUntilInclusive/io.reactivex.rxjava3.core.Observable[TypeParam(bounds=[kotlin.Any])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any]),kotlin.Boolean]/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/take-until-inclusive.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/updateLocation/#kotlin.Double#kotlin.Double/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/update-location.html
 $dokka.location:sksolutions.vcilv.sdk_cil/BluetoothSdk/updateTimeAndDate/#/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-bluetooth-sdk/update-time-and-date.html
 $dokka.location:sksolutions.vcilv.sdk_cil/ConnectionStatusListener///PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-connection-status-listener/index.html
@@ -44,8 +59,8 @@ $dokka.location:sksolutions.vcilv.sdk_cil/ConnectionStatusListener/onConnected/#
 $dokka.location:sksolutions.vcilv.sdk_cil/ConnectionStatusListener/onDisconnected/#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-connection-status-listener/on-disconnected.html
 $dokka.location:sksolutions.vcilv.sdk_cil/DataListener///PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-data-listener/index.html
 $dokka.location:sksolutions.vcilv.sdk_cil/DataListener/getData/#kotlin.collections.Map[kotlin.String,kotlin.Comparable[*]]#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-data-listener/get-data.html
-$dokka.location:sksolutions.vcilv.sdk_cil/DataListener/getRawData/#kotlin.String#kotlin.String/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-data-listener/get-raw-data.html
 $dokka.location:sksolutions.vcilv.sdk_cil/DataListener/onFinished/#kotlin.String#kotlin.Boolean/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-data-listener/on-finished.html
+$dokka.location:sksolutions.vcilv.sdk_cil/DataListener/onSectorDownloaded/#kotlin.collections.Map[kotlin.String,kotlin.Any]#kotlin.Int#kotlin.Boolean/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-data-listener/on-sector-downloaded.html
 $dokka.location:sksolutions.vcilv.sdk_cil/ErrorListener///PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-error-listener/index.html
 $dokka.location:sksolutions.vcilv.sdk_cil/ErrorListener/onError/#kotlin.String?/PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-error-listener/on-error.html
 $dokka.location:sksolutions.vcilv.sdk_cil/LocationData///PointingToDeclaration/sdk-cil/sksolutions.vcilv.sdk_cil/-location-data/index.html
